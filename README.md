@@ -1,3 +1,3 @@
-# 1v1-Tic-Tac-Toe
+# TicTacToe
 
 Play Tic Tac Toe against your friends on the command line!
