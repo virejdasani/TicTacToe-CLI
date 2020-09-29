@@ -41,14 +41,12 @@ if player != 1:
 while True:
     
     if moves > 8:
-        print('9Moves')
         break
 
     while player == 1:
 
         if moves > 8:
-                print('9Moves')
-                break
+            break
 
         print(board['1'] + ' |' + board['2'] + '|' + board['3'])
         print('---+---+---')
